@@ -1,0 +1,7 @@
+/feed/                https://cosx.org/index.xml
+/cn/topic/*           https://d.cosx.org/d/:splat
+/cn/profile/*         https://d.cosx.org/u/:splat
+/cn/*                 https://d.cosx.org
+/:year/:month:/:slug  https://cosx.org/:year/:month/:slug
+/page/*               https://cosx.org/page/:splat
+/*                    https://cosx.org  301!
