@@ -4,4 +4,5 @@
 /cn/*                 https://d.cosx.org
 /:year/:month:/:slug  https://cosx.org/:year/:month/:slug
 /page/*               https://cosx.org/page/:splat
+/wp-content/uploads/* https://uploads.cosx.org/:splat
 /*                    https://cosx.org  301!
