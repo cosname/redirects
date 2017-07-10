@@ -1,4 +1,5 @@
 /feed/                https://cosx.org/index.xml
+/cn/topics/*          https://d.cosx.org
 /cn/topic/*           https://d.cosx.org/d/:splat
 /cn/profile/*         https://d.cosx.org/u/:splat
 /cn/*                 https://d.cosx.org
