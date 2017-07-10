@@ -7,5 +7,6 @@
 /wp-content/uploads/* https://uploads.cosx.org/:splat
 /category/*           https://cosx.org/categories/:splat
 /tag/*                https://cosx.org/tags/:splat
+/chinar/*             https://cosx.org/chinar/:splat
 /:slug                https://cosx.org/:slug
 /*                    https://cosx.org  301!
