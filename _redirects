@@ -5,4 +5,7 @@
 /:year/:month/:slug   https://cosx.org/:year/:month/:slug
 /page/*               https://cosx.org/page/:splat
 /wp-content/uploads/* https://uploads.cosx.org/:splat
+/category/*           https://cosx.org/categories/:splat
+/tag/*                https://cosx.org/tags/:splat
+/:slug                https://cosx.org/:slug
 /*                    https://cosx.org  301!
