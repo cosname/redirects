@@ -2,7 +2,7 @@
 /cn/topic/*           https://d.cosx.org/d/:splat
 /cn/profile/*         https://d.cosx.org/u/:splat
 /cn/*                 https://d.cosx.org
-/:year/:month:/:slug  https://cosx.org/:year/:month/:slug
+/:year/:month/:slug   https://cosx.org/:year/:month/:slug
 /page/*               https://cosx.org/page/:splat
 /wp-content/uploads/* https://uploads.cosx.org/:splat
 /*                    https://cosx.org  301!
