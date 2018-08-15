@@ -1,5 +1,6 @@
 /feed/                https://cosx.org/index.xml
 
+/bbs/*                             https://d.cosx.org
 /cn/forums/*                      https://d.cosx.org/tags
 /cn/forum/software/r-language/*   https://d.cosx.org/t/r
 /cn/forum/*                       https://d.cosx.org
